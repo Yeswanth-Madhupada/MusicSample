@@ -1,0 +1,10 @@
+/* .crd {
+  color: #ffffff;
+} */
+.list {
+  display: flex;
+  justify-content: space-between;
+}
+.para {
+  color: #3b82f6;
+}
